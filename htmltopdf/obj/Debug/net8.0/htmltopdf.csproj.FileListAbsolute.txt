@@ -1,0 +1,11 @@
+C:\Users\andrei.mendes\source\repos\htmltopdfdef\htmltopdf\bin\Debug\net8.0\htmltopdf.deps.json
+C:\Users\andrei.mendes\source\repos\htmltopdfdef\htmltopdf\bin\Debug\net8.0\htmltopdf.dll
+C:\Users\andrei.mendes\source\repos\htmltopdfdef\htmltopdf\bin\Debug\net8.0\htmltopdf.pdb
+C:\Users\andrei.mendes\source\repos\htmltopdfdef\htmltopdf\obj\Debug\net8.0\htmltopdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrei.mendes\source\repos\htmltopdfdef\htmltopdf\obj\Debug\net8.0\htmltopdf.AssemblyInfoInputs.cache
+C:\Users\andrei.mendes\source\repos\htmltopdfdef\htmltopdf\obj\Debug\net8.0\htmltopdf.AssemblyInfo.cs
+C:\Users\andrei.mendes\source\repos\htmltopdfdef\htmltopdf\obj\Debug\net8.0\htmltopdf.csproj.CoreCompileInputs.cache
+C:\Users\andrei.mendes\source\repos\htmltopdfdef\htmltopdf\obj\Debug\net8.0\htmltopdf.dll
+C:\Users\andrei.mendes\source\repos\htmltopdfdef\htmltopdf\obj\Debug\net8.0\refint\htmltopdf.dll
+C:\Users\andrei.mendes\source\repos\htmltopdfdef\htmltopdf\obj\Debug\net8.0\htmltopdf.pdb
+C:\Users\andrei.mendes\source\repos\htmltopdfdef\htmltopdf\obj\Debug\net8.0\ref\htmltopdf.dll

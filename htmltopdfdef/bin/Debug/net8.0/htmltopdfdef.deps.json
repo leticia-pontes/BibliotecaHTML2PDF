@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "htmltopdfdef/1.0.0": {
+        "dependencies": {
+          "htmltopdf": "1.0.0"
+        },
+        "runtime": {
+          "htmltopdfdef.dll": {}
+        }
+      },
+      "htmltopdf/1.0.0": {
+        "runtime": {
+          "htmltopdf.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "htmltopdfdef/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "htmltopdf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
