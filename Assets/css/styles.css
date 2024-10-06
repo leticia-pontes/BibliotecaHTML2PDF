@@ -1,0 +1,50 @@
+/* Reset básico para garantir que todos os navegadores exibam o estilo de forma consistente */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif; /* Fonte padrão */
+    line-height: 1.6;              /* Espaçamento entre linhas */
+    background-color: #f4f4f4;     /* Cor de fundo */
+    color: #333;                   /* Cor do texto */
+    padding: 20px;                 /* Espaçamento interno */
+}
+
+/* Estilo para títulos */
+h1 {
+    color: #0056b3;                /* Cor do título principal */
+    margin-bottom: 20px;           /* Espaço abaixo do título */
+}
+
+h2 {
+    color: #007bff;                /* Cor do subtítulo */
+    margin: 15px 0;                /* Espaço acima e abaixo do subtítulo */
+}
+
+/* Estilo para parágrafos */
+p {
+    margin-bottom: 15px;           /* Espaço abaixo de cada parágrafo */
+}
+
+/* Estilo para links */
+a {
+    color: #007bff;                /* Cor do link */
+    text-decoration: none;          /* Remove o sublinhado */
+}
+
+a:hover {
+    text-decoration: underline;     /* Adiciona sublinhado ao passar o mouse */
+}
+
+/* Estilo para listas */
+ul {
+    margin: 10px 0;                /* Espaço acima e abaixo das listas */
+}
+
+li {
+    margin-bottom: 10px;           /* Espaço abaixo de cada item da lista */
+}

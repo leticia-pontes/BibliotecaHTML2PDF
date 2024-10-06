@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "redsABKWCHQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laura\\source\\repos\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laura\\.nuget\\packages\\anglesharp\\0.16.1\\anglesharp.0.16.1.nupkg.sha512",
+    "C:\\Users\\laura\\.nuget\\packages\\anglesharp.css\\0.16.0\\anglesharp.css.0.16.0.nupkg.sha512",
+    "C:\\Users\\laura\\.nuget\\packages\\htmlagilitypack\\1.11.45\\htmlagilitypack.1.11.45.nupkg.sha512",
+    "C:\\Users\\laura\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\laura\\.nuget\\packages\\questpdf\\2024.7.3\\questpdf.2024.7.3.nupkg.sha512",
+    "C:\\Users\\laura\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\laura\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
